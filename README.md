@@ -10,8 +10,9 @@ Este repositorio acompaña un taller práctico: puedes seguir la guía paso a pa
 
 ## Tabla de contenido
 
+
 - [Requisitos](#requisitos)
-- [Teoría en 5 minutos](#teoría-en-5-minutos)
+- [¿Qué es Google ML Kit?] (#¿Qué es Google ML Kit?)
 - [Ejecutar este repositorio](#ejecutar-este-repositorio)
 - [Guía paso a paso](#guía-paso-a-paso)
   - [Paso 0: Preparar el entorno](#paso-0-preparar-el-entorno)
@@ -39,7 +40,7 @@ Este repositorio acompaña un taller práctico: puedes seguir la guía paso a pa
 
 ---
 
-## Teoría en 5 minutos
+## ¿Qué es Google ML Kit?
 
 **ML Kit** es el kit de Google para usar machine learning dentro de apps móviles. Trae modelos ya entrenados para tareas comunes como reconocer texto (OCR), leer códigos de barras o etiquetar imágenes.
 
