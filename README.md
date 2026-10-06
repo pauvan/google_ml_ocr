@@ -1,3 +1,7 @@
+Integrantes: 
+Julio Andrés Diaz Maigual 
+Paula Vanessa León Erazo
+------------------------------------------------------------------------------------------------------------------------------------------
 # OCR local en Flutter con Google ML Kit
 
 App de ejemplo en Flutter que toma una foto (o la elige de la galería) y **extrae el texto** que aparece en ella usando **Google ML Kit**, todo dentro del celular y **sin internet**.
