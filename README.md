@@ -1,6 +1,5 @@
 Integrantes: 
-Julio Andrés Diaz Maigual 
-Paula Vanessa León Erazo
+Julio Andrés Diaz Maigual - Paula Vanessa León Erazo
 ------------------------------------------------------------------------------------------------------------------------------------------
 # OCR local en Flutter con Google ML Kit
 
