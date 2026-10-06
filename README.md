@@ -12,7 +12,7 @@ Este repositorio acompaña un taller práctico: puedes seguir la guía paso a pa
 
 
 - [Requisitos](#requisitos)
-- * [¿Qué es Google ML Kit?](#qué-es-google-ml-kit)
+- [¿Qué es Google ML Kit?](#qué-es-google-ml-kit)
 - [Ejecutar este repositorio](#ejecutar-este-repositorio)
 - [Guía paso a paso](#guía-paso-a-paso)
   - [Paso 0: Preparar el entorno](#paso-0-preparar-el-entorno)
