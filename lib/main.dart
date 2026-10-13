@@ -24,6 +24,7 @@ class _OcrPageState extends State<OcrPage> {
   String _datos = '';
   bool _cargando = false;
 
+  //PArte importante: La función para leer texto 
   Future<void> _leerTexto(ImageSource origen) async {
     // 1. Tomar la foto o elegirla de la galería
     final foto = await _picker.pickImage(source: origen);
